@@ -1,0 +1,11 @@
+Introduction
+============
+
+This is a Project to automatically fetch the weekend roster of the upcoming weekend and send out an email to the entire team to remind them in case they have an upcoming shift.
+
+Source
+======
+The current source of information is Google Sheets and a Microsoft Excel File.
+
+
+The project will later source its data from SFDC
